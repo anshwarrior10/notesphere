@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.next-dev/
+.next-local/
+.next-role-tests/
+.notesphere-builds/
+.data/
+.env*
+!.env.example
+*.tsbuildinfo
